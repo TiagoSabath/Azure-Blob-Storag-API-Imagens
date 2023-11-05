@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2ZwSZcokghunyAkOuj0qWuobArTkD6tlHENtinjgnko=",
+  "Source": "AzureBlobStoragAPI",
+  "BasePath": "_content/AzureBlobStoragAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
